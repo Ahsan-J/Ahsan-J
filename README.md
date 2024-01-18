@@ -1,4 +1,4 @@
-<p style="text-align:center;">Hello <code>&lt;Viewers /&gt;</code> </p>
+<p align="center">Hello <code>&lt;Viewers /&gt;</code> </p>
 
 ### About me
 ---
